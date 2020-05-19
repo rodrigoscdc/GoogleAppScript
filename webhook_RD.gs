@@ -1,5 +1,5 @@
-var SHEET_ID = '1QM5XPyhgeAiEPBkbDGb7a0GXwsos9Hm9GtBE4OrCWsI';
-var TOKEN = 'asdfg';
+var SHEET_ID = SHEET_ID;
+var TOKEN = TOKEN;
 
 function doPost(req){
 
